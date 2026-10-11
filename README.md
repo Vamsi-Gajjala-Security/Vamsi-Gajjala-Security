@@ -7,7 +7,7 @@ Cybersecurity Consultant and Security Operations Analyst with experience in Secu
 I work with Microsoft Sentinel, Microsoft Defender XDR, Microsoft Entra ID, KQL, and ServiceNow to investigate security incidents, improve detection quality, and support enterprise SOC operations. I'm currently building expertise in Detection Engineering, Security Telemetry, SIEM Integrations, and Security Automation.
 ______________________________________________________________________________________________________________________
 
-**🔭 Current Focus**
+**🔭 Current Focus**:
 Detection Engineering fundamentals
 Microsoft Sentinel analytics rules
 MITRE ATT&CK-based detections
@@ -19,7 +19,7 @@ Detection lifecycle, tuning, and validation
 ______________________________________________________________________________________________________________________
 
 **🛠 Technologies & Tools**
-**Microsoft Security**
+**Microsoft Security**:
 Microsoft Sentinel
 Microsoft Defender XDR
 Microsoft Defender for Endpoint
@@ -35,7 +35,7 @@ Threat Hunting
 Incident Investigation
 MITRE ATT&CK
 
-**Operations**
+**Operations**:
 ServiceNow
 Log Analytics
 Security Monitoring
@@ -53,7 +53,7 @@ Python
 ______________________________________________________________________________________________________________________
 
 **📂 Featured Projects
-Detection Engineering Lab**
+Detection Engineering Lab**:
 Microsoft Sentinel detection content focused on:
 MITRE ATT&CK mapping
 KQL detections
@@ -64,14 +64,14 @@ Validation and testing approaches
 Repository: https://github.com/Vamsi-Gajjala-Security/detection-engineering-lab
 ______________________________________________________________________________________________________________________
 
-**🏆 Certifications**
+**🏆 Certifications**:
 Microsoft Certified: Security Operations Analyst Associate (SC-200)
 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 Claroty Cybersecurity Analyst (CCA)
 Claroty Certified Associate – Industrial
 ______________________________________________________________________________________________________________________
 
-**🎯 Career Goal**
+**🎯 Career Goal**:
 Security Operations • Threat Detection • Detection Engineering • Microsoft Security
 
 Focused on building expertise in detection development, security telemetry, automation, and advanced threat detection within Microsoft security ecosystems.
